@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# backend
+step 1 : cd backend
+step 2 : npm init -y
+step 3 : npm install express mongoose cors
+step 4 : node index.js
+
+# Frontend Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
