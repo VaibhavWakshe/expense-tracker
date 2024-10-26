@@ -93,7 +93,6 @@ const Tracker = () => {
 
   return (
     <Container>
-        {/* <THeading>GeeksforGeeks</THeading> */}
       <Heading>Expense Tracker</Heading>
       <OverviewComponent
         toggle={toggle}
